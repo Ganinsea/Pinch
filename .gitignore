@@ -1,0 +1,15 @@
+bin/
+dist/
+tests/bin/
+tests/output/
+data/
+history/
+*.tmp
+.publish/
+
+/state/
+/.shuttle/
+.env
+.env.*
+*.pem
+*.key

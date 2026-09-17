@@ -1,0 +1,21 @@
+﻿{
+    "version":  "2.3.0",
+    "builtAt":  "2026-09-16T17:48:25.8428019+08:00",
+    "files":  [
+                  {
+                      "name":  "Pinch.exe",
+                      "bytes":  158208,
+                      "sha256":  "20A97D99047CAAF29D02CE1C08912649DBCC8542C1E3F1B67265D0092C687EB9"
+                  },
+                  {
+                      "name":  "PinchUninstall.exe",
+                      "bytes":  136192,
+                      "sha256":  "3529376F7B4E290C690D81D057111992AB7014EC1EBDC98655DEAD4BEBA11781"
+                  },
+                  {
+                      "name":  "PinchSetup.exe",
+                      "bytes":  436736,
+                      "sha256":  "883F94BCF155AE7D6DE953AF44ED78BE3419E5CEA48DA2A03E742044A6297E1F"
+                  }
+              ]
+}
